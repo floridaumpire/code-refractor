@@ -141,7 +141,10 @@ p {
     max-width: 150px;
 }
 */
-.search-engine-optimization {
+.search-engine-optimization,
+.online-reputation-management,
+.social-media-marketing
+{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -149,7 +152,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* MOVED TO ABOVE 
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -167,7 +170,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+*/
 .search-engine-optimization img {
     max-height: 200px;
 }
