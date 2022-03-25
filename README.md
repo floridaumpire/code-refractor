@@ -3,14 +3,16 @@ Code refractor homework for UCF Boot Camp
 
 Created by Eric Steiner: floridaumpire@gmail.com
 
-Search Engine Optimization - Getting to the NEXT LEVEL
 
-If you want to beat your competition to the customer, this project is for you!
+
+**Search Engine Optimization - Getting to the NEXT LEVEL**
+
+*If you want to beat your competition to the customer, this project is for you!*
+
 
 This project is designed to project a companies or individuals ability to maximize traffic to a specific client for advanced level sales. 
 
 <img src="./assets/images/SEO1.png">
-
 
 Using the most advanced toolset on the market, the website is designed to accomodate any window on any device, whether that device is a desktop, laptop, tablet, phone or other optimized interactive unit. There is no dependency on a specific device manufacturer or type, as this customer facing website will accomodate them all to a clients strictest requirements using html and css. 
 
